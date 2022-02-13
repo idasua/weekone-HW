@@ -1,0 +1,44 @@
+h1 {
+    font-family: Georgia;
+    font-size: 24px;
+    color: brown;
+}
+h2 {
+    font-family: Georgia;
+    font-size: 24px;
+    color: pink;
+}
+ p{ 
+    font-family: Arial;
+    font-size: 14px;
+    color: orange;
+}
+li {
+    font-family: Georgia;
+    font-size: 14px;
+    color: brown;
+
+}
+table {
+    border: 1px dashed brown ;
+}
+td {
+    border: 1px dashed brown ;
+}
+th {
+    border: 1px dashed brown ;
+}
+th {
+    border: 1px dashed brown;
+    background-color: brown;
+}
+a {
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 18px;
+    color: brown;
+    margin-right: 15px;
+}
+a:hover {
+    color: orangered;
+}
